@@ -1,0 +1,64 @@
+// src/data/galleryData.ts
+export const galleryData = [
+  {
+    id: 1,
+    url: "images/dzialka1.jpg",
+    title: "Wiosna na działkach",
+    date: "2024-06-01",
+  },
+  {
+    id: 2,
+    url: "images/dzialka2.jpg",
+    title: "Letni piknik",
+    date: "2024-06-15",
+  },
+  {
+    id: 3,
+    url: "images/dzialka3.jpg",
+    title: "Letni piknik",
+    date: "2024-06-15",
+  },
+  {
+    id: 4,
+    url: "images/dzialka4.jpg",
+    title: "Letni piknik",
+    date: "2024-06-15",
+  },
+  {
+    id: 5,
+    url: "images/dzialka5.jpg",
+    title: "Letni piknik",
+    date: "2024-06-15",
+  },
+  {
+    id: 6,
+    url: "images/dzialka6.jpg",
+    title: "Letni piknik",
+    date: "2024-06-15",
+  },
+  {
+    id: 7,
+    url: "images/dzialka7.jpg",
+    title: "Letni piknik",
+    date: "2024-06-15",
+  },
+  {
+    id: 8,
+    url: "images/dzialka8.jpg",
+    title: "Letni piknik",
+    date: "2024-06-15",
+  },
+  {
+    id: 9,
+    url: "images/dzialka9.jpg",
+    title: "Letni piknik",
+    date: "2024-06-15",
+  },
+  {
+    id: 10,
+    url: "images/dzialka10.jpg",
+    title: "Letni piknik",
+    date: "2024-06-15",
+  },
+  // dodaj więcej zdjęć (minimum 10 dla testu)
+];
